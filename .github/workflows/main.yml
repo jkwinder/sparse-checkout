@@ -12,7 +12,6 @@ jobs:
       with:
         sparse-checkout: |
           Folder1
-          Folder2
         
     - name: display contents
       run: |
